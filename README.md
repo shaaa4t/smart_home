@@ -2,6 +2,6 @@
 
 Flutter UI.
 
-- [Watch it on YouTube](https://www.youtube.com/)
+- [Watch it on YouTube](https://youtu.be/FgUlyLV3cd8)
 
 ![](/smart.png)
